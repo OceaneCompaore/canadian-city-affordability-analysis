@@ -27,5 +27,5 @@ Filtered to keep only common cities across datasets
 Merged datasets into a single table
 
 Dashboard
-Coming soon (Tableau Public)
+https://public.tableau.com/views/FinalCityComparison/Tableaudebord1?:language=fr-CA&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
