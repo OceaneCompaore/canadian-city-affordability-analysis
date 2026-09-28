@@ -101,7 +101,11 @@ The results suggest that higher employment income alone does not necessarily tra
 
 The interactive Tableau dashboard allows users to compare affordability and employment indicators across the eight cities.
 
-**Tableau Public:**  
+### Dashboard Preview
+
+![Canadian City Affordability Dashboard](dashboard.png) 
+
+**View the interactive dashboard on Tableau Public:**  
 https://public.tableau.com/views/FinalCityComparison/Tableaudebord1?:language=fr-CA&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
